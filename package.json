@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Nayed/web-explorer/issues"
   },
+  "preferGlobal": true,
+  "bin": {
+    "cute-files": "cute-files.js"
+  },
   "homepage": "https://github.com/Nayed/web-explorer#readme"
 }
