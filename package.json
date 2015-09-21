@@ -2,7 +2,7 @@
   "name": "web-explorer",
   "version": "1.0.0",
   "description": "Web file explorer",
-  "main": "index.js",
+  "main": "web-explorer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,7 +21,7 @@
   },
   "preferGlobal": true,
   "bin": {
-    "index": "index.js"
+    "web-explorer": "web-explorer.js"
   },
   "homepage": "https://github.com/Nayed/web-explorer#readme",
   "dependencies": {
