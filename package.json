@@ -1,0 +1,23 @@
+{
+  "name": "web-explorer",
+  "version": "1.0.0",
+  "description": "Web file explorer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nayed/web-explorer.git"
+  },
+  "keywords": [
+    "file",
+    "explorer"
+  ],
+  "author": "Nayed Saïd Ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nayed/web-explorer/issues"
+  },
+  "homepage": "https://github.com/Nayed/web-explorer#readme"
+}
