@@ -28,5 +28,9 @@
     "commander": "^2.8.1",
     "content-disposition": "^0.5.0",
     "express": "^4.13.3"
+  },
+  "readmeFilename": "readme.md",
+  "engines": {
+    "node": ">= 4.0.x"
   }
 }
