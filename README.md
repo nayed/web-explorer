@@ -1,6 +1,9 @@
 # web-explorer
 Web file explorer
 
+## NPM
+[![NPM](https://nodei.co/npm/web-explorer.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/web-explorer/)
+
 ### How to install
 
 <u>Note: you must have NodeJs V4 or greater to run this module</u>
