@@ -1,6 +1,6 @@
 {
   "name": "web-explorer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Web file explorer",
   "main": "web-explorer.js",
   "scripts": {
