@@ -8,19 +8,40 @@ Web file explorer
 
 <u>Note: you must have NodeJs V4 or greater to run this module</u>
 
-```git clone https://github.com/Nayed/web-explorer.git```
+#### with npm
 
-```cd web-explorer```
+```bash
+npm install web-explorer -g
 
-```npm install```
+web-explorer
+```
 
-```node web-explorer.js```
+#### With github
 
-and go to localhost:3000
+```bash
+git clone https://github.com/Nayed/web-explorer.git
 
+cd web-explorer
+
+npm install
+node web-explorer.js
+```
+
+and go to http://localhost:3000
 
 If you want to execute the module from anywhere
 
-```npm link``` in the directory
+```bash
+npm link
+```
+in the directory
 
-and then ```web-explorer``` from anywhere in the command line
+and then
+```bash
+web-explorer
+```
+
+#### Make the current folder available on `<yourip>:12345` on the local network:
+```bash
+cute-files --port 12345
+```
