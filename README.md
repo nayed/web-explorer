@@ -16,6 +16,8 @@ npm install web-explorer -g
 web-explorer
 ```
 
+and go to http://localhost:3000
+
 #### With github
 
 ```bash
@@ -41,7 +43,8 @@ and then
 web-explorer
 ```
 
-#### Make the current folder available on `<yourip>:12345` on the local network:
+##### option
+Make the current folder available on `<yourip>:12345` on the local network:
 ```bash
 cute-files --port 12345
 ```
