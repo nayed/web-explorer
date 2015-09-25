@@ -26,6 +26,7 @@ git clone https://github.com/Nayed/web-explorer.git
 cd web-explorer
 
 npm install
+
 node web-explorer.js
 ```
 
