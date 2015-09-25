@@ -45,7 +45,8 @@ web-explorer
 ```
 
 ##### option
-Make the current folder available on `<yourip>:12345` on the local network:
+Make the current folder available on `<yourip>:1234` on the local network:
 ```bash
-web-explorer --port 12345
+web-explorer --port 1234
 ```
+http://localhost:1234
