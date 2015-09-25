@@ -49,4 +49,4 @@ Make the current folder available on `<yourip>:1234` on the local network:
 ```bash
 web-explorer --port 1234
 ```
-http://localhost:1234
+and go to http://localhost:1234
