@@ -47,5 +47,5 @@ web-explorer
 ##### option
 Make the current folder available on `<yourip>:12345` on the local network:
 ```bash
-cute-files --port 12345
+web-explorer --port 12345
 ```
